@@ -1,0 +1,4 @@
+lucky-word=aos_exproa_compras
+
+eureka.client.serviceUrl.defaultZone=http://localhost:8090/eureka/
+server.port=8020
